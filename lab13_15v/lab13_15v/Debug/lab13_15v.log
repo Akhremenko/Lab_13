@@ -1,0 +1,19 @@
+﻿Сборка начата 24.12.2015 9:39:45.
+     1>Проект "c:\Users\анастасия\documents\visual studio 2015\Projects\lab13_15v\lab13_15v\lab13_15v.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\lab13_15v.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\lab13_15v.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt lab13_15v.cpp
+         lab13_15v.cpp
+       ResourceCompile:
+         C:\Program Files\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\lab13_15v.res" lab13_15v.rc 
+       Link:
+         D:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\анастасия\documents\visual studio 2015\Projects\lab13_15v\Debug\lab13_15v.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\анастасия\documents\visual studio 2015\Projects\lab13_15v\Debug\lab13_15v.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\анастасия\documents\visual studio 2015\Projects\lab13_15v\Debug\lab13_15v.lib" /MACHINE:X86 Debug\lab13_15v.res
+         Debug\lab13_15v.obj
+         Debug\stdafx.obj
+         lab13_15v.vcxproj -> c:\users\анастасия\documents\visual studio 2015\Projects\lab13_15v\Debug\lab13_15v.exe
+     1>Сборка проекта "c:\Users\анастасия\documents\visual studio 2015\Projects\lab13_15v\lab13_15v\lab13_15v.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:04.02
